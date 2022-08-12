@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167321950367",
+    "project_id": "mitestd",
+    "storage_bucket": "mitestd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167321950367:android:54d5976cac0efa180e6aaa",
+        "android_client_info": {
+          "package_name": "com.abbeydev.test_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167321950367-bc6fj5gp5foab8m1hmat1hi1irgfak8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abbeydev.test_demo",
+            "certificate_hash": "d89f17b2b69c67db6509238192da5411cc0cee81"
+          }
+        },
+        {
+          "client_id": "167321950367-rmu61eu3e9rm563j00lmssbi3ru93p58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgOTq7juSnGnBdxRWPKhdng0gGw21jbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167321950367-rmu61eu3e9rm563j00lmssbi3ru93p58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
